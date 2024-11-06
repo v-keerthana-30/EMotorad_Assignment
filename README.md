@@ -1,1 +1,2 @@
-# EMotorad_Assignment
+ EMotorad_Assignment
+ The code creates a simple sign-in page with options for username/password or Gmail login. Upon successful sign-in, the user is redirected to a dashboard page featuring a sidebar with sections like Profile, Login Credentials, Profits, and more. The dashboard also includes a notification icon on the top left and a search bar on the right. The profile section displays the user's name and profession. The sidebar has additional links for "Help" and "About."
